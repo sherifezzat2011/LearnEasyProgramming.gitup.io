@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "RyGNXO0FvnE1wUIDTIpEO7JtspJjDmdtEWrlc+keOhG4k6YQXoOadtnwsBIp0w2AqLfTFCL4KCS+BZOyBmsUJw==",
+  "success": true,
+  "projectFilePath": "D:\\MyProject\\EasyLearnPublisg\\EasyLearn\\EasyLearn.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sherif\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x86\\6.0.16\\microsoft.netcore.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\Sherif\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x86\\6.0.16\\microsoft.windowsdesktop.app.runtime.win-x86.6.0.16.nupkg.sha512",
+    "C:\\Users\\Sherif\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x86\\6.0.16\\microsoft.aspnetcore.app.runtime.win-x86.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

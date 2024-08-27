@@ -1,0 +1,7 @@
+D:\MyProject\EasyLearnPublisg\EasyLearn\obj\Release\net6.0\PubTmp\Out\EasyLearn.exe
+D:\MyProject\EasyLearnPublisg\EasyLearn\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\MyProject\EasyLearnPublisg\EasyLearn\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\MyProject\EasyLearnPublisg\EasyLearn\obj\Release\net6.0\PubTmp\Out\EasyLearn.dll
+D:\MyProject\EasyLearnPublisg\EasyLearn\obj\Release\net6.0\PubTmp\Out\EasyLearn.deps.json
+D:\MyProject\EasyLearnPublisg\EasyLearn\obj\Release\net6.0\PubTmp\Out\EasyLearn.runtimeconfig.json
+D:\MyProject\EasyLearnPublisg\EasyLearn\obj\Release\net6.0\PubTmp\Out\EasyLearn.pdb
